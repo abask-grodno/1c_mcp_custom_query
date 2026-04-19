@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/abask-grodno/1c_mcp_custom_query)
 [![Original Project](https://img.shields.io/badge/Original-1C_MCP-blue)](https://github.com/vladimir-kharin/1c_mcp)
 
-> **Расширение** для MCP-сервера 1С от [Vladimir Kharin](https://github.com/vladimir-kharin), от меня добавлен новый инструмент `custom_query` — выполнение **произвольного запроса на встроенном языке 1С**.
+> Основано на расширении MCP-сервера 1С от [Vladimir Kharin](https://github.com/vladimir-kharin), от меня добавлен новый инструмент `custom_query` — выполнение **произвольного запроса на встроенном языке 1С**.
 
 Оригинальный проект `1c_mcp` реализует MCP-сервер для 1С, но не включает возможность выполнять произвольные запросы к базе данных. Я добавил эту функциональность в виде отдельного расширения конфигурации.
 
