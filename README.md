@@ -1,4 +1,4 @@
-# 1C MCP — расширение для произвольных запросов (custom_query)
+# 1C MCP — доработка расширения для произвольных запросов (custom_query)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/abask-grodno/1c_mcp_custom_query)
 [![Original Project](https://img.shields.io/badge/Original-1C_MCP-blue)](https://github.com/vladimir-kharin/1c_mcp)
