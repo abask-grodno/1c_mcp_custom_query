@@ -58,8 +58,7 @@ MCP_Сервер_произвольный_запрос.cfe
   "method": "tools/call",
   "params": {
     "name": "custom_query",
-    "arguments": {"text": "ВЫБРАТЬ 1 КАК Тест"
-    }
+    "arguments": {"text": "ВЫБРАТЬ 1 КАК Тест"}
   }
 }
 ```
