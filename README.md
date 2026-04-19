@@ -71,7 +71,7 @@ MCP_Сервер_произвольный_запрос.cfe
   "result": {
     "content": [{
       "type": "text",
-      "text": "[\n{\n\ "Тест\": 1\n}\n]"
+      "text": "[\n{\n\"Тест\": 1\n}\n]"
     }],
     "isError": false
   }
